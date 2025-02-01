@@ -8,7 +8,7 @@ The primary dataset is provided in CSV format (`data.csv`) and contains details 
 
 | Job Classification                       | Market by Location                      | Keywords                     |
 |-----------------------------------|-------------------------------------|
-| <img src="images/classification.png" width="300"/> | <img src="images/market.png" width="300"/> | <img src="images/keywords.png" width="300"/> |
+| <img src="images/classifications.png" width="300"/> | <img src="images/market.png" width="300"/> | <img src="images/keywords.png" width="300"/> |
 
 =======
 
