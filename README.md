@@ -6,6 +6,16 @@ This project focuses on analyzing the SEEK job market dataset using data analyti
 
 The primary dataset is provided in CSV format (`data.csv`) and contains details about job postings on seek.com.au. Additional data crawling is optional. The tasks are divided into multiple parts, emphasizing data exploration, visualization, and actionable insights.
 
+| Job Classification                       | Market by Location                      | Keywords                     |
+|-----------------------------------|-------------------------------------|
+| <img src="images/classification.png" width="300"/> | <img src="images/market.png" width="300"/> | <img src="images/keywords.png" width="300"/> |
+
+=======
+
+| Trends                      | Trends                     |
+|-----------------------------------|-------------------------------------|
+| <img src="images/trend1.png" width="500"/> | <img src="images/salary.png" width="500"/> |
+
 ## Tasks
 
 ### Part 1: Data Preparation and Preprocessing
