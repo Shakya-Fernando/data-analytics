@@ -50,13 +50,6 @@ This part focuses on analyzing data characteristics and visualizing findings:
 |-----------------------------------|-------------------------------------|
 | <img src="images/trend1.png" width="500"/> | <img src="images/salary.png" width="500"/> |
 
-### Part 4: Discussion
-- **Scenario 1:**
-  - Recommend a university major for a high school student in Queensland aiming for a job with a good income (≥80K).
-
-- **Scenario 2:**
-  - Provide recommendations for Griffith University to adjust admission numbers across different majors based on job market data.
-
 ## Approach
 The assignment employs:
 - Data cleaning techniques to normalize and standardize the dataset.
