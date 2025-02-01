@@ -6,15 +6,9 @@ This project focuses on analyzing the SEEK job market dataset using data analyti
 
 The primary dataset is provided in CSV format (`data.csv`) and contains details about job postings on seek.com.au. Additional data crawling is optional. The tasks are divided into multiple parts, emphasizing data exploration, visualization, and actionable insights.
 
-| Job Classification                       | Market by Location                      | Keywords                     |
-|-----------------------------------|-------------------------------------|
-| <img src="images/classifications.png" width="300"/> | <img src="images/market.png" width="300"/> | <img src="images/keywords.png" width="300"/> |
-
-=======
-
-| Trends                      | Trends                     |
-|-----------------------------------|-------------------------------------|
-| <img src="images/trend1.png" width="500"/> | <img src="images/salary.png" width="500"/> |
+| Job Classifications                                          | Locations                                            | Keywords                                              |
+|--------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| <img src="images/classifications.png" width="300" alt="Login" /> | <img src="images/market.png" width="300" alt="Teacher" /> | <img src="images/keywords.png" width="300" alt="Another" /> |
 
 ## Tasks
 
@@ -49,6 +43,12 @@ This part focuses on analyzing data characteristics and visualizing findings:
 - **Forecasting and Keyword Extraction:**
   - Use moving averages (7-day and 30-day) to predict job posting trends and visualize them in line charts.
   - Extract important keywords for a chosen job sector using TF/IDF and represent them in a word cloud.
+
+## Visualisations (Trends)
+
+| Trends                      | Trends                     |
+|-----------------------------------|-------------------------------------|
+| <img src="images/trend1.png" width="500"/> | <img src="images/salary.png" width="500"/> |
 
 ### Part 4: Discussion
 - **Scenario 1:**
